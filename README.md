@@ -14,3 +14,5 @@
 ```sh
 git push origin --delete nameBranch
 ```
+
+Решение конфликта
